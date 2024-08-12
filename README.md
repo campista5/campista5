@@ -6,3 +6,4 @@ Meu nome é Guilherme
 - Estou me desenvolvendo na linguagem JavaScript
 
 ![](https://media1.tenor.com/m/gZU3n_9Nv2EAAAAC/cat-cat-stare.gif)
+ 
